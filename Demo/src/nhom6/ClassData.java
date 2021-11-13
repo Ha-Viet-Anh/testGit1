@@ -9,7 +9,7 @@ package nhom6;
  *
  * @author taola
  */
-public class TestGit1 {
-
-
+public class ClassData {
+    public static String name="sa";
+    public static String pass="1";
 }
